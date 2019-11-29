@@ -1544,4 +1544,36 @@ Text GLabel 1450 6650 0    50   Input ~ 0
 KOLOM6
 Text GLabel 1450 6750 0    50   Input ~ 0
 KOLOM7
+Wire Wire Line
+	1600 6050 1450 6050
+Wire Wire Line
+	1600 6150 1450 6150
+Wire Wire Line
+	1600 6250 1450 6250
+Wire Wire Line
+	1600 6350 1450 6350
+Wire Wire Line
+	1600 6450 1450 6450
+Wire Wire Line
+	1600 6550 1450 6550
+Wire Wire Line
+	1600 6650 1450 6650
+Wire Wire Line
+	1600 6750 1450 6750
+Wire Wire Line
+	3000 6750 3150 6750
+Wire Wire Line
+	3150 6650 3000 6650
+Wire Wire Line
+	3150 6550 3000 6550
+Wire Wire Line
+	3150 6450 3000 6450
+Wire Wire Line
+	3150 6350 3000 6350
+Wire Wire Line
+	3150 6250 3000 6250
+Wire Wire Line
+	3150 6150 3000 6150
+Wire Wire Line
+	3150 6050 3000 6050
 $EndSCHEMATC

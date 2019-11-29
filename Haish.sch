@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L keyboard_parts:KEYSW K?1
+L keyboard_parts:KEYSW K0
 U 1 1 5DE1411D
 P 1900 1000
-F 0 "K?1" H 1900 1233 60  0000 C CNN
+F 0 "K0" H 1900 1233 60  0000 C CNN
 F 1 "KEYSW" H 1900 900 60  0001 C CNN
 F 2 "Keebio-Parts:MX_PCB_100H" H 1900 1000 60  0001 C CNN
 F 3 "" H 1900 1000 60  0000 C CNN
